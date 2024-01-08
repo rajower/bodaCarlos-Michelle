@@ -1,5 +1,4 @@
-  =>  Template Name    : Jack & Rose - Free Wedding Website Template
-
+  =>  Template Name    : Carlos & Michelle
   =>  Template Link    : https://htmlcodex.com/free-wedding-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
